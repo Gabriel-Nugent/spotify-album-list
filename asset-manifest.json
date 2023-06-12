@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/spotify-album-list/static/css/main.d89e50b6.css",
-    "main.js": "/spotify-album-list/static/js/main.1360b2dc.js",
+    "main.css": "/spotify-album-list/static/css/main.915819b3.css",
+    "main.js": "/spotify-album-list/static/js/main.74b9348f.js",
     "index.html": "/spotify-album-list/index.html",
-    "main.d89e50b6.css.map": "/spotify-album-list/static/css/main.d89e50b6.css.map",
-    "main.1360b2dc.js.map": "/spotify-album-list/static/js/main.1360b2dc.js.map"
+    "main.915819b3.css.map": "/spotify-album-list/static/css/main.915819b3.css.map",
+    "main.74b9348f.js.map": "/spotify-album-list/static/js/main.74b9348f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d89e50b6.css",
-    "static/js/main.1360b2dc.js"
+    "static/css/main.915819b3.css",
+    "static/js/main.74b9348f.js"
   ]
 }
